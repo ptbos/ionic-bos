@@ -1,0 +1,8 @@
+{
+  "name": "ionic-bos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "124f628c"
+}
